@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1547377413 source:h:\mycppprojects\photopicker\main.cpp
+	<iostream>
+	<windows.h>
+	"CSVWriter.h"
+
+1547376558 h:\mycppprojects\photopicker\csvwriter.h
+	<string>
+	<vector>
+
+1547376741 source:h:\mycppprojects\photopicker\csvwriter.cpp
+	<iostream>
+	<fstream>
+	"CSVWriter.h"
+
